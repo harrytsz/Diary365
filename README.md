@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/harrytsz-Diary365-<brightgreen>.svg)](https://blog.csdn.net/Harrytsz)
 ![Progress](http://progressed.io/bar/10)
 
-<p align="right">
+<p>
 	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
 	<p align="left">
 		<em>Dairy365 record the diary of scicence and technology by harrytsz</em>
