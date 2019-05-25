@@ -2,7 +2,7 @@
 Date: 2019-5-25
 
 
-[Back to HomePage](../README.md)
+[Back to HomePage](https://github.com/harrytsz/Diary365/)
 
 
 # Topics: 
