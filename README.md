@@ -25,7 +25,6 @@
 ## Contents :anchor:
 * [Day000](./Diarys/Day000/README.md)
 	* Topic:[开篇词|洞悉技术的本质,享受科技的乐趣]
-	* 链接: https://pan.baidu.com/s/1T4qNaA27fZXRyN__tQkvyQ 提取码: x3wn 
 * [Day001](./Diarys/Day000/README.md)
 	* Topic:
 * [Day002](./Diarys/Day000/README.md)
