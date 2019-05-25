@@ -24,7 +24,7 @@
 
 ## Contents :anchor:
 * [Day000](./Diarys/Day000/README.md)
-	* Topic:
+	* Topic:开篇词|洞悉技术的本质,享受科技的乐趣
 * [Day001](./Diarys/Day000/README.md)
 	* Topic:
 * [Day002](./Diarys/Day000/README.md)
