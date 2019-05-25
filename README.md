@@ -28,7 +28,7 @@
 ## :newspaper: Contents 
 * [Day000](./Diarys/Day000/README.md)
 	* Topic:[开篇词|洞悉技术的本质,享受科技的乐趣]
-	* Topic:[开篇词讲想成为技术牛人?先搞定网络协议!]
+	* Topic:[开篇词|想成为技术牛人?先搞定网络协议]
 * [Day001](./Diarys/Day000/README.md)
 	* Topic:
 * [Day002](./Diarys/Day000/README.md)
