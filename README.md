@@ -8,6 +8,7 @@
 <div>
 <p align="left">
 	<em>Dairy365 record the diary of scicence and technology by harrytsz</em>
+	<br>
 	<em>The main areas involved are: computer science, machine learning, deep learning and other artificial intelligence.</em>
 </p>
 <p align="right">
