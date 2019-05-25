@@ -15,7 +15,7 @@
 	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
 	<p align="center">
 		<em>既然选择远方，便只顾风雨兼程.</em>
-		<em>-- Harrytsz</em>
+		<em>-- Harrytsz :anchor:</em>
 	</p>
 </p>
 
