@@ -10,10 +10,8 @@
 	<em>Dairy365 record the diary of scicence and technology by harrytsz</em>
 	<em>The main areas involved are: computer science, machine learning, deep learning and other artificial intelligence.</em>
 </p>
-<p  align="left">
-	<img src="./Images/timg.jpg" height="330" width="190" >
-</p>
 <p align="right">
+	<img src="./Images/timg.jpg" height="330" width="190" >
 	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
 	<p align="right">
 		<em>既然选择远方，便只顾风雨兼程.</em>
