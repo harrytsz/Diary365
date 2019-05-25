@@ -16,7 +16,7 @@
 	<p align="center">
 		<em>既然选择远方，便只顾风雨兼程.</em>
 		<p align="right">
-			<em>-- Harrytsz :anchor:</em>
+			<font color="red">-- Harrytsz :anchor:</font>
 		</p>
 	</p>
 </p>
