@@ -8,7 +8,8 @@ Scicence and technology diary of harrytsz
 <p align="right">
 	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
 	<p align="right">
-		<em>Harrytsz</em>
+		<em>既然选择远方，便只顾风雨兼程.</em>
+		<em>-- Harrytsz</em>
 	</p>
 </p>
 
