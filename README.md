@@ -5,9 +5,9 @@ Scicence and technology diary of harrytsz
 [![License](https://img.shields.io/badge/harrytsz-Diary365-<brightgreen>.svg)](https://blog.csdn.net/Harrytsz)
 ![Progress](http://progressed.io/bar/10)
 
-<p align="center">
-	<img src="./Images/LOGO.jpg" alt="LOGO"  width="250" height="140">
-	<p align="center">
+<p align="right">
+	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
+	<p align="right">
 		<em>Harrytsz</em>
 	</p>
 </p>
