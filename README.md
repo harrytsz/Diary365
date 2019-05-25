@@ -23,6 +23,7 @@
 
 </div>
 
+<font color='red'>Every Topic has multiple resources such as HTML、MP3、MP4、PDF and so on.</font>
 
 ## :newspaper: Contents 
 * [Day000](./Diarys/Day000/README.md)
