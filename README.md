@@ -6,4 +6,4 @@ Scicence and technology diary of harrytsz
 ![Progress](http://progressed.io/bar/10)
 
 
-[Jump to Home](Diary365/Diarys/Day000/#Day000)
+[Jump to Home](Diary365/Diarys/Day000/README.md)
