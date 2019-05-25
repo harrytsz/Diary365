@@ -22,7 +22,7 @@
 
 
 
-## Contents <%= octicon "list-unordered" %>
+## Contents :newspaper:
 * [Day000](./Diarys/Day000/README.md)
 	* Topic:
 * [Day001](./Diarys/Day000/README.md)
