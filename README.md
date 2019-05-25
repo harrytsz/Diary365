@@ -1,11 +1,17 @@
 # Diary365
 Scicence and technology diary of harrytsz
 
-![LOGO](./Images/LOGO.jpg)
-
 [![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
 [![License](https://img.shields.io/badge/harrytsz-Diary365-<brightgreen>.svg)](https://blog.csdn.net/Harrytsz)
 ![Progress](http://progressed.io/bar/10)
+
+<p align="center">
+	<img src="./Images/LOGO.jpg" alt="LOGO"  width="250" height="140">
+	<p align="center">
+		<em>Harrytsz</em>
+	</p>
+</p>
+
 
 ## Contents
 * [Day000](./Diarys/Day000/README.md)
