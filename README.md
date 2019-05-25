@@ -10,8 +10,10 @@
 </p>
 <p align="right">
 	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
-	<em>既然选择远方，便只顾风雨兼程.</em>
-	<em>-- Harrytsz</em>
+	<p align="right">
+		<em>既然选择远方，便只顾风雨兼程.</em>
+		<em>-- Harrytsz</em>
+	</p>
 </p>
 
 
